@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "507467826681",
+    "project_id": "practical6-f6f06",
+    "storage_bucket": "practical6-f6f06.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:507467826681:android:ea6618c0321acbdc62e928",
+        "android_client_info": {
+          "package_name": "sg.edu.np.mad.junxiprac2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "507467826681-ugr0i1ept1qjv4s3b3sv2fn1l2biqi4h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTTdy_tvK8nFzaroQ4rQ-j1jynpiM3UrA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "507467826681-ugr0i1ept1qjv4s3b3sv2fn1l2biqi4h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
